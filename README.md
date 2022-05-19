@@ -1,5 +1,8 @@
 # Proxmox VE by HTTP
 
+credit: https://git.isaev.tech/IsaevTech/zbx-tmplt-pve
+
+
 - [Proxmox VE by HTTP](#proxmox-ve-by-http)
   - [Todos](#todos)
   - [Usage](#usage)
